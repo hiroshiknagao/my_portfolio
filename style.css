@@ -352,6 +352,7 @@ article .icon {
 }
 
 /* Projects Section*/
+
 #projects{
 position: relative;
 }
@@ -362,6 +363,13 @@ position: relative;
 }
 
 .project-img {
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+
+}
+
+.project-img-4 {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
