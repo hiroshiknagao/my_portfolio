@@ -171,6 +171,7 @@ section {
 
 .section_pic-container {
   display: flex;
+
   height: 400px;
   width: 400px;
   margin: auto 0;
@@ -286,10 +287,9 @@ section {
 }
 
 /*.about-pic {
-  border-radius: 2rem;
-  height: 280px;
-  width: 280px;
-}*/
+  height: 180px;
+  width: 180px;
+} */
 
 .arrow {
   position: absolute;
@@ -313,10 +313,10 @@ section {
 }
 
 /*.section__pic-container {
-  height: 400px;
-  width: 400px;
+  height: 200px;
+  width: 200px;
   margin: auto 0;
-}*/
+} */
 
 /*experience section*/
 
