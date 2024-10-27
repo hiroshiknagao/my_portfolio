@@ -165,13 +165,15 @@ section {
   gap: 5rem;
   height: 80vh;
 }
+#about-pic {
+ border-radius: 2rem;
+}
 
 .section_pic-container {
   display: flex;
   height: 400px;
-  /*width: 400px;*/
+  width: 400px;
   margin: auto 0;
-
 }
 
 .section__text {
@@ -282,11 +284,11 @@ section {
   display: flex;
 }
 
-.about-pic {
+/*.about-pic {
   border-radius: 2rem;
   height: 280px;
   width: 280px;
-}
+}*/
 
 .arrow {
   position: absolute;
@@ -309,11 +311,11 @@ section {
   height: 80%;
 }
 
-.section__pic-container {
+/*.section__pic-container {
   height: 400px;
   width: 400px;
   margin: auto 0;
-}
+}*/
 
 /*experience section*/
 
