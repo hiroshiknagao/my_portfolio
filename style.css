@@ -371,14 +371,13 @@ position: relative;
   border-radius: 2rem;
   width: 90%;
   height: 90%;
-
 }
 
-.project-img-4 {
+/*.project-img-4 {
   border-radius: 2rem;
-  width: 90%;
+  width: 95%;
   height: 90%;
-}
+} */
 
 .project-title {
   margin: 1rem;
