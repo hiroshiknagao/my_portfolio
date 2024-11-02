@@ -370,7 +370,9 @@ position: relative;
 .project-img {
   border-radius: 2rem;
   width: 90%;
-  height: 90%;
+  aspect-ratio: 1;
+  align-self: stretch;
+
 }
 
 /*.project-img-4 {
